@@ -1,19 +1,8 @@
 # How to Download the AWS Bill
-As of November 2022, there are two UIs to the AWS Billing Console, each needing slightly different instructions.
 
-## The “Old Console”
-This is what the old console looks like:
+![AWS billing console](new-console-nov22.jpg)
 
-![Old AWS billing console](old-console-nov22.jpg)
-
-If you’re using this console, then select the month you want, click ‘Print’, and save as a PDF (not a CSV!).
-
-## The “New Console”
-This is what the new console looks like:
-
-![New AWS billing console](new-console-nov22.jpg)
-
-If you’re using this console, then select the month you want, then click ‘Download all to CSV’.
+Select the month you want, then click ‘Download all to CSV’.
 
 ## Invoices
 
